@@ -1,5 +1,6 @@
 # IDA Playstation2 COP2 Helper
- Generate PlayStation 2 r5900 COP2 assembly.
+ Generate PlayStation 2 r5900 COP2 assembly.<br>
+ Plugin is already obsolete, please use https://github.com/oct0xor/ida-emotionengine instead.
  
 ## Usage
  Copy COP2.py into IDA plugins directory.
